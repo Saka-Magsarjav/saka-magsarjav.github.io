@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Saka Magsarjav",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Who am I?\n\n\nwhat do I do?\n\n\nInterests"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "posts/first.html",
+    "href": "posts/first.html",
+    "title": "Saka Magsarjav",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/blog1.html",
+    "href": "posts/blog1.html",
+    "title": "Coherence",
+    "section": "",
+    "text": "Testing coherence"
+  },
+  {
+    "objectID": "first.html",
+    "href": "first.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Coherence\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProcess\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
   }
 ]

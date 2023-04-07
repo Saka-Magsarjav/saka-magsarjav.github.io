@@ -1,7 +1,13 @@
 ---
-title: "website"
+title: "Saka Magsarjav"
 ---
 
-This is a Quarto website.
+# Who am I?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# what do I do?
+
+
+# Interests 
+
+
