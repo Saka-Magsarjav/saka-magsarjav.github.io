@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "Publications"
+bibliography: bibliography.bib
+nocite: |
+  @*
+csl: harvard.csl
 ---
 
 

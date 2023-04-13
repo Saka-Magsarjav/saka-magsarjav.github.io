@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Saka Magsarjav",
+    "title": "Welcome!",
     "section": "",
-    "text": "Who am I?\n\n\nwhat do I do?\n\n\nInterests"
+    "text": "I am Saranzaya Magsarjav, but you can call me Saka, currently undertaking a Ph.D. in maths at the Univeristy of Adelaide. My research area is quite broad from analysing drugs in waste water to quantifying civil disobidience to sentiment contagion. For my Ph.D. project I am looking into reproducibility and stability in topic modelling.\nYou can check out my professional activities here and my publications, or check out my blog where I write about anything that takes my fancy, usually something to do with maths."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "References\n\nPond, T., Magsarjav, S., South, T., Mitchell, L., Bagrow, J.P., 2020. Complex contagion features without social reinforcement in a model of social information flow. Entropy 22. https://doi.org/10.3390/e22030265\n\n\nBade, R., Tscharke, B.J., O’Brien, J.W., Magsarjav, S., Humphries, M., Ghetia, M., Thomas, K.V., Mueller, J.F., White, J.M., Gerber, C., 2021. Impact of COVID-19 controls on the use of illicit drugs and alcohol in australia. Environmental Science & Technology Letters 8, 799–804. https://doi.org/10.1021/acs.estlett.1c00532\n\n\nThomas, E.F., Leggett, N., Kernot, D., Mitchell, L., Magsarjav, S., Weber, N., 2022. Reclaim the beach: How offline events shape online interactions and networks amongst those who support and oppose right-wing protest. Studies in Conflict & Terrorism 0, 1–23. https://doi.org/10.1080/1057610X.2022.2034222"
   },
   {
     "objectID": "posts/first.html",
@@ -21,18 +21,11 @@
     "text": "No matching items"
   },
   {
-    "objectID": "posts/blog1.html",
-    "href": "posts/blog1.html",
-    "title": "Coherence",
-    "section": "",
-    "text": "Testing coherence"
-  },
-  {
     "objectID": "first.html",
     "href": "first.html",
-    "title": "Blogs",
+    "title": "Some things that tickle my brain",
     "section": "",
-    "text": "Coherence\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProcess\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "notes.html",
@@ -42,10 +35,38 @@
     "text": "References\nHow to create a website on github\nHTML Quarto themes"
   },
   {
-    "objectID": "posts/blog2.html",
-    "href": "posts/blog2.html",
-    "title": "Process",
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "Professional Activities",
     "section": "",
-    "text": "All the processing in the porceess"
+    "text": "My\n\nMEAT camere accredation\nForensics shiny APP\nSentiment Contagion"
+  },
+  {
+    "objectID": "professional.html#teaching",
+    "href": "professional.html#teaching",
+    "title": "Professional Activities",
+    "section": "Teaching",
+    "text": "Teaching\n\nCoures Coordination: Critical Evaluation in Data Science\nTutoring:\n\nStat Prac\nCritical Evalution in Data Science\nData Science PG\nStatistical Analysis and Modelling\nMathematics in Data Science"
+  },
+  {
+    "objectID": "professional.html#outreach",
+    "href": "professional.html#outreach",
+    "title": "Professional Activities",
+    "section": "Outreach",
+    "text": "Outreach"
+  },
+  {
+    "objectID": "professional.html#research-assistant",
+    "href": "professional.html#research-assistant",
+    "title": "Professional Activities",
+    "section": "",
+    "text": "My\n\nMEAT camere accredation\nForensics shiny APP\nSentiment Contagion"
+  },
+  {
+    "objectID": "professional.html#education",
+    "href": "professional.html#education",
+    "title": "Professional Activities",
+    "section": "Education",
+    "text": "Education\nI completed undergraduate degrees at the University of Adelaide and started my Ph.D. part-time in 2020.\n\nDoctor of Philosophy (2020 - )\nHonours in Mathematical Sciences (2018)\nBachelor in Mathematical Sciences (2015-2017)"
   }
 ]

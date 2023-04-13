@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Some things that tickle my brain"
 listing:
     contents: posts
 ---

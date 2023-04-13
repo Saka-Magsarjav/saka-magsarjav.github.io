@@ -1,5 +1,6 @@
 ---
 title: "Process"
+draft: true
 ---
 
 All the processing in the porceess

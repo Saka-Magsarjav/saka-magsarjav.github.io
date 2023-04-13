@@ -1,0 +1,38 @@
+---
+title: "Professional Activities"
+---
+
+
+## Research Assistant
+
+My 
+
+ - MEAT camere accredation
+ - Forensics shiny APP
+ - Sentiment Contagion
+
+
+---------------------------------
+
+## Teaching
+
+ - Coures Coordination: Critical Evaluation in Data Science
+ - Tutoring:
+    - Stat Prac
+    - Critical Evalution in Data Science
+    - Data Science PG
+    - Statistical Analysis and Modelling
+    - Mathematics in Data Science
+
+
+
+------------------------------------------
+## Outreach
+
+## Education
+ 
+I completed undergraduate degrees at the University of Adelaide and started my Ph.D. part-time in 2020. 
+
+ - Doctor of Philosophy (2020 - ) 
+ - Honours in Mathematical Sciences (2018)
+ - Bachelor in Mathematical Sciences (2015-2017)
