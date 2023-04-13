@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: professional.qmd
-        text: Professional Acticities
+        text: Professional Activities
       - about.qmd
       - href: first.qmd
         text: Blog
@@ -19,8 +19,6 @@ website:
         aria-label: GitHub
       - icon: linkedin
         href: https://linkedin.com/
-      - icon: envelope-at
-        href: saranzaya.magsarjav@adelaide.edu.au
   page-footer:
     center:
       - text: saranzaya.magsarjav@adelaide.edu.au
