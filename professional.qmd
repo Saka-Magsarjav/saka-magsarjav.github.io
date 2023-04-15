@@ -5,20 +5,29 @@ title: "Professional Activities"
 
 ## Research Assistant
 
-My 
+Since 2019, I have been working as a casual research assistant on multitude of different work. Some are list below:
 
- - MEAT camere accredation
- - Forensics shiny APP
- - Sentiment Contagion
+ - MEAT camera accreditation (2023)
+    - Analysis of camera technology for meat accreditation
+ - Forensic glass analysis APP (2022)
+    - Developing an app for easier forensic glass comparison
+ - Wastewater Analysis (2021)
+    - Statistical analysis of illicit drugs in waste water during pre and post COVID-19
+ - Public response to COVID Safe APP(2020):
+    - Research investigating the public reaction to the COVID Safe app using natural language processing.
+- Social networks analysis (2019):
+     - Investigation of social media trends through event detection, social networks analysis, and sentiment analysis. 
 
 
 ---------------------------------
 
 ## Teaching
 
- - Coures Coordination: Critical Evaluation in Data Science
- - Tutoring:
-    - Stat Prac
+I have been tutoring high school students privately since 2013, and officially become a casual tutor at the University of Adelaide in 2021. Being a tutor means running computer practials, tutorials, consulting sessions, as well as marking. Main areas I tutor for are statistics and data science. I have also been a course coordinator for Critical Evalution in Data Science.
+
+ - Course Coordinator (2022): Critical Evaluation in Data Science
+ - Tutoring (2021-):
+    - Statistical Practice I
     - Critical Evalution in Data Science
     - Data Science PG
     - Statistical Analysis and Modelling
@@ -27,7 +36,14 @@ My
 
 
 ------------------------------------------
+
 ## Outreach
+
+As part of the maths postgraduate community I have volunteered for univeristy's events, such as Women in Maths Day, Ingenuity, and CHOOSEMATHS mentorship.  
+
+In 2023 I became a postgraduate representative. This has constituted of organising events for the betterment of the Maths Higher Degree Research students community. Some events that have been run are prosgraduate seminars, boardgame nights, afternoon teas, etc. 
+
+--------------------------------------------
 
 ## Education
  

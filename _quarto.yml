@@ -15,10 +15,10 @@ website:
         text: Blog
     tools:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/Saka-Magsarjav
         aria-label: GitHub
       - icon: linkedin
-        href: https://linkedin.com/
+        href: https://www.linkedin.com/in/saranzaya-magsarjav
   page-footer:
     center:
       - text: saranzaya.magsarjav@adelaide.edu.au
