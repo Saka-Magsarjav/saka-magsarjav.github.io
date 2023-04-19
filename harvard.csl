@@ -220,7 +220,7 @@
   </citation>
   <bibliography hanging-indent="true" entry-spacing="0" line-spacing="1">
     <sort>
-      <key macro="issued" sort="ascending"/>
+      <key macro="issued" sort="descending"/>
     </sort>
     <layout>
       <group suffix=".">
