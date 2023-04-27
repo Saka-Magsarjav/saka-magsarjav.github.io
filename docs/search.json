@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I am Saranzaya Magsarjav, but you can call me Saka, currently undertaking a Ph.D. in maths at the Univeristy of Adelaide. For my Ph.D. project I am looking into reproducibility and stability in topic modelling under the supervision of Melissa Humphries, Lewis Mitchell, and Jono Tuke. However, my research area is quite broad from analysing drugs in waste water to quantifying civil disobidience to sentiment contagion.\nYou can check out my professional activities here and my publications, or check out my blog where I write about anything that takes my fancy, usually something to do with maths."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Thomas, E.F., Leggett, N., Kernot, D., Mitchell, L., Magsarjav, S., Weber, N., 2022. Reclaim the beach: How offline events shape online interactions and networks amongst those who support and oppose right-wing protest. Studies in Conflict & Terrorism 0, 1–23. https://doi.org/10.1080/1057610X.2022.2034222\n\n\nBade, R., Tscharke, B.J., O’Brien, J.W., Magsarjav, S., Humphries, M., Ghetia, M., Thomas, K.V., Mueller, J.F., White, J.M., Gerber, C., 2021. Impact of COVID-19 controls on the use of illicit drugs and alcohol in australia. Environmental Science & Technology Letters 8, 799–804. https://doi.org/10.1021/acs.estlett.1c00532\n\n\nPond, T., Magsarjav, S., South, T., Mitchell, L., Bagrow, J.P., 2020. Complex contagion features without social reinforcement in a model of social information flow. Entropy 22. https://doi.org/10.3390/e22030265"
+  },
+  {
+    "objectID": "first.html",
+    "href": "first.html",
+    "title": "Some things that tickle my brain",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "Professional Activities",
+    "section": "",
+    "text": "Since 2019, I have been working as a casual research assistant on multitude of different work. Some are list below:\n\nMEAT camera accreditation (2023)\n\nAnalysis of camera technology for meat accreditation\n\nForensic glass analysis APP (2022)\n\nDeveloping an app for easier forensic glass comparison\n\nWastewater Analysis (2021)\n\nStatistical analysis of illicit drugs in waste water during pre and post COVID-19\n\nPublic response to COVID Safe APP(2020):\n\nResearch investigating the public reaction to the COVID Safe app using natural language processing.\n\nSocial networks analysis (2019):\n\nInvestigation of social media trends through event detection, social networks analysis, and sentiment analysis."
+  },
+  {
+    "objectID": "professional.html#research-assistant",
+    "href": "professional.html#research-assistant",
+    "title": "Professional Activities",
+    "section": "",
+    "text": "Since 2019, I have been working as a casual research assistant on multitude of different work. Some are list below:\n\nMEAT camera accreditation (2023)\n\nAnalysis of camera technology for meat accreditation\n\nForensic glass analysis APP (2022)\n\nDeveloping an app for easier forensic glass comparison\n\nWastewater Analysis (2021)\n\nStatistical analysis of illicit drugs in waste water during pre and post COVID-19\n\nPublic response to COVID Safe APP(2020):\n\nResearch investigating the public reaction to the COVID Safe app using natural language processing.\n\nSocial networks analysis (2019):\n\nInvestigation of social media trends through event detection, social networks analysis, and sentiment analysis."
+  },
+  {
+    "objectID": "professional.html#teaching",
+    "href": "professional.html#teaching",
+    "title": "Professional Activities",
+    "section": "Teaching",
+    "text": "Teaching\nI have been tutoring high school students privately since 2013, and officially become a casual tutor at the University of Adelaide in 2021. Being a tutor means running computer practials, tutorials, consulting sessions, as well as marking. Main areas I tutor for are statistics and data science. I have also been a course coordinator for Critical Evalution in Data Science.\n\nCourse Coordinator (2022): Critical Evaluation in Data Science\nTutoring (2021-):\n\nStatistical Practice I\nCritical Evalution in Data Science\nData Science PG\nStatistical Analysis and Modelling\nMathematics in Data Science"
+  },
+  {
+    "objectID": "professional.html#outreach",
+    "href": "professional.html#outreach",
+    "title": "Professional Activities",
+    "section": "Outreach",
+    "text": "Outreach\nAs part of the maths postgraduate community I have volunteered for univeristy’s events, such as Women in Maths Day, Ingenuity, and CHOOSEMATHS mentorship.\nIn 2023 I became a postgraduate representative. This has constituted of organising events for the betterment of the Maths Higher Degree Research students community. Some events that have been run are prosgraduate seminars, boardgame nights, afternoon teas, etc."
+  },
+  {
+    "objectID": "professional.html#education",
+    "href": "professional.html#education",
+    "title": "Professional Activities",
+    "section": "Education",
+    "text": "Education\nI completed undergraduate degrees at the University of Adelaide and started my Ph.D. part-time in 2020.\n\nDoctor of Philosophy (2020 - )\nHonours in Mathematical Sciences (2018)\nBachelor in Mathematical Sciences (2015-2017)"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "References",
+    "section": "",
+    "text": "References\nHow to create a website on github\nHTML Quarto themes\n\n\nTODO\n\nUpdate LinkedIn\nCreate ldatuning python package\nCreate simulation LDA package\nWrite up best coherence measure"
+  }
+]
