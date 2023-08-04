@@ -6,6 +6,7 @@ draft: true
 Main Take Away: Daily Meeze Point
 
 
+
 ## Summary
 
 ### First Course:
@@ -82,4 +83,51 @@ The 10 main "ingredients" in implementing philosophy of mise-en-place.
 *We arrange spaces to remove resistance.*
 
 #### Clean as you go
+
+*Commit to maintaining your system. Always be cleaning.*
+
+
+* Keeping organisation system no matter the chaos
+* Nothing left out of cleaning system
+* Keep your space clean
+* Exercise:
+    + Come to zero: using your planned station every hour or so reset your station
+* Habits:
+    + Practice Project Hygiene: Keep only the things you need, remove everything else
+    + Develop repertoire of cleaning tactics: dusting wiping, straightening, containerise.
+
+
+
+
+
+#### Making First Moves
+
+*Commit to using time to your benefit. Start now*
+
+* An action taken now is better than later
+* Set reminders
+* Immersive time  VS Process time
+    + As this occurring you want to the immersive work, things that take need your attention fully during the whole time. This works will be work that happens the same amount time whether it needs to be done now or later.
+    + Do the things that take short time but will "process" without your input. However, these will delay the output work by multiples such as projects that depend on other peoples inputs. 
+* Exercise:
+    + Determining immersive vs process by asking these questions for each project:
+        - If I don't act now, do I stop a process on  my behalf?
+        - Do I stop other people on my behalf?
+        - If yes, then process, otherwise, immersive.
+* Habits:
+    + Schedule blocks of immersive and process time
+        - with every task determine which it falls into
+        - every day spend 30 min to block time to process work
+        - alternate process vs immersive time
+        - this will be determined by the type of work you do
+        - schedule process time after meetings
+    + Maintaining a moving and marking mentality
+        - keep outsourced log of tasks that needs to be done that pop up in your head
+        - set an action to every task
+        - move immediately on your process work
+        - mark tasks into schedule to daily meeze
+        - email mangagement
+        - make sure to get to the task during daily meeze
+
+*The present has incalculably more value than the future. Starting is, in effect, a shortcut.*
 
