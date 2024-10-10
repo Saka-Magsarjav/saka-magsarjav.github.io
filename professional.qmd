@@ -23,15 +23,18 @@ Since 2019, I have been working as a casual research assistant on multitude of d
 
 ## Teaching
 
-I have been tutoring high school students privately since 2013, and officially become a casual tutor at the University of Adelaide in 2021. Being a tutor means running computer practials, tutorials, consulting sessions, as well as marking. Main areas I tutor for are statistics and data science. I have also been a course coordinator for Critical Evalution in Data Science.
+I have been tutoring high school students privately since 2013, and officially become a casual tutor at the University of Adelaide in 2021. Being a tutor means running computer practials, tutorials, consulting sessions, as well as marking. Main areas I tutor for are statistics and data science. I have also been a course coordinator for Critical Evalution in Data Science I and Data Science III.
 
- - Course Coordinator (2022): Critical Evaluation in Data Science
+ - Course Coordinator
+   - Critical Evaluation in Data Science (2022)
+   - Data Science III (2024)
  - Tutoring (2021-):
     - Statistical Practice I
-    - Critical Evalution in Data Science
+    - Critical Evalution in Data Science I
+    - Statistical Analysis and Modelling I
+    - Mathematics in Data Science I
+    - Mathematical Statistics III
     - Data Science PG
-    - Statistical Analysis and Modelling
-    - Mathematics in Data Science
 
 
 
