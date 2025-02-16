@@ -1,7 +1,7 @@
 ---
 title: "Review: The 12 Week Year"
 description: "Would I suggest this to someone?"
-draft: false
+draft: true
 ---
 
 The premises of a year is too long to keep track of goals and intentions. Your brain thinks it there is a lot of time and does not get anything done. One of two things happens with year resolutions is it is forgotten after a first month or frantically tried to get back on track in the last month or so.
@@ -54,7 +54,7 @@ The tactics for a goal are the actions that make sure your goals is reached. Her
 There should be tactics for each individual goals with the weeks that needs to be completed in. Tactics should be stated as a complete sentence, starting with a verb, and executable within the deadline. 
 
 Before moving on some questions to consider are "What actions will you struggle with?" and "What will you do to overcome them?"
-Setting up these question will help with 
+Setting up these question will help with
 
 
 
