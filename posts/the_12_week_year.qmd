@@ -14,6 +14,8 @@ One interesting concept that this books says is the most important is accountabi
 
     - [ ] Add more on accountability
     - [ ] Comment on it drills in why these steps are important 
+    - [ ] Thinking shift - how it tries to mental barriers to reframe your thinking
+    - [ ] Team applications - how this is used in larger groups
 
 
 ## Visualisation and Your Why
@@ -54,7 +56,26 @@ The tactics for a goal are the actions that make sure your goals is reached. Her
 There should be tactics for each individual goals with the weeks that needs to be completed in. Tactics should be stated as a complete sentence, starting with a verb, and executable within the deadline. 
 
 Before moving on some questions to consider are "What actions will you struggle with?" and "What will you do to overcome them?"
-Setting up these question will help with
+Setting up these question will help when inevitably you come across hurdles, you have a plan. 
 
 
+### Score Your Week
 
+After having tactics for each of your goals, there needs to be some way to measure your effectiveness. Measuring your progress and execution helps create informed future decisions to improvement. If you do not know where your starting point is, how will you know you have improved. 
+
+There are two different metrics that are used to measure how your week has progressed: lag indicators and lead indicators. Lag indicators are results you are aiming or wanting to achieve. Lead indicators are execution based, *i.e.*, the actions you take to get these results.
+
+Ideally you would have both lead and lag indicators to create informative decisions as to where you are lacking. However, as you have greater control over the execution than the results, lead indicators are a more informative in determining where the a breakdown is occurring. 
+
+One way to score your week is using the percentage of the tactics you have achieved. The book suggest that if you complete 85% of the tactics, you are most likely to achieve your goals. The idea behind the number is that you are not striving for perfection but striving for excellence. 
+
+
+### Weekly Accountability Meeting (WAM)
+
+Report on how they tracked their goals and how they will execute it.
+- Your results for 12 week year to date
+- Your weekly execution score
+- Intentions for coming week
+- Feedback and suggestions from the group
+- Successful techniques: what worked well
+Encouragement
