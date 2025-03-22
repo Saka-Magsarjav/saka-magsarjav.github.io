@@ -4,15 +4,44 @@ description: "Would I suggest this to someone?"
 draft: true
 ---
 
+
+
+How I want this to go:
+
+- [  ] Note on how what I thought about the book:
+    - [ ] Thoughts
+    - [ ] What was unique about this books
+    - [ ] What did I find interesting?
+- [ ] What are the main three things from this book?
+- [ ] Finer details for me
+
+
 The premises of a year is too long to keep track of goals and intentions. Your brain thinks it there is a lot of time and does not get anything done. One of two things happens with year resolutions is it is forgotten after a first month or frantically tried to get back on track in the last month or so.
 
 By setting up the 12 week year, it is long enough that it doesn't seem impossible to reach your goals, but short enough that you cannot slack off.
 
 This is one of the better productivity books I have read in that there were actionable items and practical tips to implement these ideas, specially if you are new to ``productivity". However, at times it felt quite repetitive as it tried to drill in why some of the concepts are important. This probably would not be a problem for new readers. I do think that this books has great ideas however a person new to a lot of productivity tips may find it overwhelming to implement all the things the book says. This would a good book to pick a some new ideas and implement them then come back to over and over again. 
 
-One interesting concept that this books says is the most important is accountability. 
+There are 3 principles that this book states that the 12 week system is built from: accountability, commitment, and greatness in the moment. Accountability, as they describe it, is ownership of your actions, regardless of your circumstances. Commitment is keeping a promise to yourself to act on your promises. Greatness in the moment is the idea that you are not great when you have the results, it happens when you have chosen to commit to taking action and take control of your life.
 
-    - [ ] Add more on accountability
+
+
+
+The emotions cycle of change:
+- uninformed optimism
+- informed pessimism
+- valley of despair
+- informed optimism
+- success and fulfilment
+
+
+3 Principles 
+ - Accountability: ownership
+ - Commitment: personal promise
+ - Greatness in the moment: you become great before results
+
+    - [x] Add more on accountability
+    - [x] Commitment is an action
     - [ ] Comment on it drills in why these steps are important 
     - [ ] Thinking shift - how it tries to mental barriers to reframe your thinking
     - [ ] Team applications - how this is used in larger groups
@@ -79,3 +108,202 @@ Report on how they tracked their goals and how they will execute it.
 - Feedback and suggestions from the group
 - Successful techniques: what worked well
 Encouragement
+
+### Model Work Week
+
+Model Work week is the ideal week to get all the things you want to do done, i.e., what does you calender look like if you schedule in all the things you want to get done. However, with everything you need to adjust your schedule to be realistic. There might be events or meetings that are non-adjustable that has to be done. 
+Schedule:
+ - 15 min review
+ - three hour strategic block
+ - buffer blocks - admin work
+ - breakout block - free time
+ - additional responsibilities: meetings/planning/project work
+
+
+Regularly:
+- reconnect with vision: 5-10 min Is there still emotional connection?
+- 12 week review: 10-15 min Review metrics? Executing high?
+- Assess performance breakdowns: 10-20min Do you need to adjust plan or execute better?
+- Work on plan tactics (high payoff): 2-2.5 hours Complete tactics from 12 week plan
+- Buffer block (low busy work): 30-60min Admin worl
+
+Thinking shift: cant do it all
+
+Pitfalls:
+- you conduct business as usual
+- you don't focus on one thing at a time in your strategic blocks
+- you allow distraction to steal your attention
+- You think being busy is the same as being productive
+
+Tips:
+- Work from a written weekly plan
+- Input your model week into your calender
+
+
+
+
+read performance time
+ - create model week - what you want your weeks to look like
+ - don't forget to add low value activities - email/admin
+ - add strategic blocks first
+
+
+### What this looks like
+
+Time blocking:
+ - strategic blocks: 3 hours uninterrupted time a week
+ - buffer blocks: unplanned low value activities: emails 30 min a day
+ - breakout blocks: taking time away from work
+
+Consider when you are the best- schedule most important time during your prime
+
+"Intentional Imbalance" - focusing on the few
+
+
+
+3 Principles 
+ - Accountability: ownership
+ - Commitment: personal promise
+ - Greatness in the moment: you become great before results
+5 Disciplines
+ - Vision
+ - Planning
+ - Process Control
+ - Measurement
+ - Time use - intention
+
+
+## taking ownership
+
+- accountability is not about blaming yourself or punishing others
+- acknowledge their role in the outcome
+- accountability is not concern with fault but with how to get better outcomes
+- never let excuses get in the way of achieving your goals
+- 
+
+1. Resolve to never to be the victim again
+2. Stop feeling sorry for yourself
+3. Be willing to take different actions
+4. Associate with "Accountables": Who you associate with matters. Stay away from victims and excuse makers. If you have important people that are these people: then be positve influence. 
+
+Pitfalls:
+- You continue to view accountability as consequences
+- You look outside yourself - waiting for change to happen
+
+tips:
+- Acknowledge reality
+- Focus on what you can control
+
+
+## 12 week Commitments:
+
+- Commit to do it fully 
+
+- personal commitment: Connecting emotionally
+
+- Successful commitment occurs when intentions are stronger than your hidden intentions
+
+1. Strong desire
+2. Keystone actions
+3. Count costs
+4. Act on commitment, not feelings
+
+
+Example:
+1. Determine few goals 
+    - pick one from wheel of life
+    - State these positively
+    - Make them measureable 
+2. Identify keystone actions
+    - Not necessarily the only action
+    - Actions that you can keep up with
+    - Ideally daily or weekly
+3. Count Costs:
+    - costs to pay consistent
+    - Surface any hidden intentions
+4. Circle the keystone actions that you are will to deal with the costs
+
+Commit!
+
+Thinking shift: Choosing pleasurable results over pleasurable actions
+
+Pitfalls
+- You miss a commitment once and give up
+- You fail to confront missed commitments
+- You don't value your work
+
+Tips:
+- Don't over commit
+- Go public with your commitments
+- Buddy up
+
+## your first 12 weeks
+
+- [ ] Books on habit creation
+- [ ] Science behind 
+
+- Resistance Monsters (Habit creation):
+    - being aware of these barriers
+    - Need for immediate gratification : review your vision daily to keep on top
+    - Big change and multiple goals: Focus one goal at a time
+    - Old habits: 
+    - Victim thinking
+    - 
+
+**First Four weeks**
+
+- Focus on foundations of the 12 week year
+    - plan your week
+    - score your week
+    - Weekly accountability meetings
+    - Block time and measure
+
+**Second Four Weeks**
+
+- Most likely to fall off as you are in the middle
+- Sense of progress - working towards  85
+
+**Last Four Weeks**
+
+- Finish strong
+- Learning to implement the 12 week year
+- Pay attention to what worked for you and what didnt - carry forward for next 12 weeks
+
+
+**13th Week**
+
+- take time off
+- Plan for the next 12 weeks
+
+
+## Coaching
+
+- [ ] There is coaching at the end to help how to get through the first 12 weeks year
+
+- Week 2:
+    - Take a minute to score your previous week
+    - Plan the upcoming week
+    - How did you score?
+    - What were you successes?
+    - How could you have been more effective?
+    - Effective execution takes place daily and weekly
+- Week 3:
+    - Commit to your vision
+    - Most important in the first few weeks is to engage in the 12 week year
+- Week 5
+    - 7 more weeks left
+    - Now score matter
+    - can be executing less than 85 but leaving room for improvement
+- Week 8:
+    - Productive tension: uncomfortable feeling when you arent doing the things you need to
+    - Use it as catalyst to get things done
+    - It is the lead indicator for substance change
+- Week 11:
+    - Thinking can drive action - results
+    - Finish Strong!
+
+## The 13th week 
+
+- Take your wins
+- Review
+- Plan for the next 12 weeks
