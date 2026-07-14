@@ -1,0 +1,40 @@
+ project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: auto
+
+website:
+  title: "Saka Magsarjav"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: professional.qmd
+        text: Professional Activities
+      - about.qmd
+      - href: blog_posts.qmd
+        text: Blog
+    tools:
+      - icon: github
+        href: https://github.com/Saka-Magsarjav
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/saranzaya-magsarjav
+  page-footer:
+    center:
+      - text: saranzaya.magsarjav@adelaide.edu.au
+
+    
+
+
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: false
+
+
+
